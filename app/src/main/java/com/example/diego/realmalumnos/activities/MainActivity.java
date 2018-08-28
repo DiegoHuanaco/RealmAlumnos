@@ -94,15 +94,15 @@ public class MainActivity extends AppCompatActivity implements RealmChangeListen
 
 
                 Alumno a1 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a2 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a3 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a4 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a5 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a6 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a7 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a8 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a9 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
-                Alumno a10 = new Alumno("18899263-3", "Diego", "Huanaco", 24, "ICIN", 2018, "primero");
+                Alumno a2 = new Alumno("11111111-1", "Mario", "Mario", 50, "ICE", 2017, "segundo");
+                Alumno a3 = new Alumno("22222222-2", "Luigi", "Mario", 24, "ICI", 2016, "primero");
+                Alumno a4 = new Alumno("18261526-9", "Diego", "Toro", 24, "TRASO", 2018, "tercer");
+                Alumno a5 = new Alumno("12151515-9", "Mati", "Bengi", 24, "GINE", 2019, "onceavo");
+                Alumno a6 = new Alumno("78559458-7", "Elvis Jagger", "Abdul Jabbar", 24, "ICIN", 2018, "treceavo");
+                Alumno a7 = new Alumno("4896589-8", "Juan Bautista", "Junior Jabadu", 94, "ICE", 2018, "primero");
+                Alumno a8 = new Alumno("18123123-3", "Al", "Colico", 24, "ICIN", 2018, "catorceavo");
+                Alumno a9 = new Alumno("11231231-3", "Largo", "Secierra", 24, "ICIN", 2018, "primero");
+                Alumno a10 = new Alumno("11231233-3", "Mia", "Migoesgay", 24, "ICI", 2018, "primero");
 
 
                 realm.copyToRealmOrUpdate(a1);
